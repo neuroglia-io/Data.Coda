@@ -31,4 +31,4 @@ foreach(var statement in doc.Statements)
 
 # Contributing
 
-Please see [CONTRIBUTING.md](https://github.com/neuroglia-io/Coda/blob/master/CONTRIBUTING.md) for instructions on how to contribute.
+Please see [CONTRIBUTING.md](https://github.com/neuroglia-io/Data.Coda/blob/master/CONTRIBUTING.md) for instructions on how to contribute.
