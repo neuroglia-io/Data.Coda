@@ -1,0 +1,10 @@
+0000018101900005        ING-REFERTC-LOGIC TEST IBS 6 CODA___BIC00001   00427604308 01005                                       2
+12002BE34914785203490                  EUR0000000002369640271212C-LOGIC TEST IBS 6 CODA___ZICHTREKENING                      001
+2100010001ING-000000000000000010000000000100000100210106060080Dit is mijn vrije mededeli g                         05061000110 1
+2200010002Dit is het vervolg van mijn vrije mededeling.        Referte van de cli?nt.             BIC11100                   0 1
+2300010003290021239785 EUR BE                  C-LOGIC N.V.                       Nog een beetje vervolg mededeling.         0 0
+3100010001ING-00000000000000001104060080Dit is mijn mededeling van type 3. Mag enkel als parameter aanstaat.                 1 1
+3200010002Dit is het vervolg van mijn mededeling van type 3. Mag uiteraard ook alleen maar als parameter aanstaat.           1 1
+3300010003En ten slotte ook nog de rest van mijn mededeling van type 3. Alleen als parameter aansta.                         0 0
+8001BE34914785203490                  EUR0000000023321000181019                                                                0
+9               000008245124587542000542124578412000                                                                           1
